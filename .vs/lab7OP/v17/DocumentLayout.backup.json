@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\",
+  "WorkspaceRootPath": "D:\\OP\\lab7OP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OP\\lab7OP\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\Using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OP\\lab7OP\\Using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\MyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OP\\lab7OP\\MyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Node.cs",
-              "DocumentMoniker": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\Node.cs",
+              "DocumentMoniker": "D:\\OP\\lab7OP\\Node.cs",
               "RelativeDocumentMoniker": "Node.cs",
-              "ToolTip": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\Node.cs",
+              "ToolTip": "D:\\OP\\lab7OP\\Node.cs",
               "RelativeToolTip": "Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T19:37:55.378Z",
               "EditorCaption": ""
@@ -45,27 +45,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Using.cs",
-              "DocumentMoniker": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\Using.cs",
+              "DocumentMoniker": "D:\\OP\\lab7OP\\Using.cs",
               "RelativeDocumentMoniker": "Using.cs",
-              "ToolTip": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\Using.cs",
+              "ToolTip": "D:\\OP\\lab7OP\\Using.cs",
               "RelativeToolTip": "Using.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T13:47:12.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T13:47:12.208Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyLinkedList.cs",
-              "DocumentMoniker": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\MyLinkedList.cs",
+              "DocumentMoniker": "D:\\OP\\lab7OP\\MyLinkedList.cs",
               "RelativeDocumentMoniker": "MyLinkedList.cs",
-              "ToolTip": "D:\\\u0420\u043E\u0431 \u0441\u0442\u043E\u043B\\\u0424\u0406\u041E\u0422\\1 \u043A\u0443\u0440\u0441, 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041F\\lab7OP\\MyLinkedList.cs",
+              "ToolTip": "D:\\OP\\lab7OP\\MyLinkedList.cs",
               "RelativeToolTip": "MyLinkedList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:57:54.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:57:54.046Z"
             }
           ]
         }

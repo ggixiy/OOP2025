@@ -12,3 +12,11 @@ D:\projects\VSTUDIA\lab7OP\obj\Debug\net8.0\refint\lab7OP.dll
 D:\projects\VSTUDIA\lab7OP\obj\Debug\net8.0\lab7OP.pdb
 D:\projects\VSTUDIA\lab7OP\obj\Debug\net8.0\lab7OP.genruntimeconfig.cache
 D:\projects\VSTUDIA\lab7OP\obj\Debug\net8.0\ref\lab7OP.dll
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.AssemblyInfoInputs.cache
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.AssemblyInfo.cs
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.csproj.CoreCompileInputs.cache
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.sourcelink.json
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.dll
+D:\OP\lab7OP\obj\Debug\net8.0\refint\lab7OP.dll
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.pdb
