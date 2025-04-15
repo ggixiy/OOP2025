@@ -72,7 +72,7 @@ namespace MyList{
         public void EvenElementsToNull()
         {
             Node current = head;
-            int count = 1;
+            int count = 0;
             while (current != null)
             {
                 if((count % 2) == 0)
@@ -102,7 +102,7 @@ namespace MyList{
         public void DeleteOddElements()
         {
             Node current = head;
-            int count = 1;
+            int count = 0;
             while (current != null)
             {
                 if ((count % 2) != 0)

@@ -20,3 +20,10 @@ D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.sourcelink.json
 D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.dll
 D:\OP\lab7OP\obj\Debug\net8.0\refint\lab7OP.dll
 D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.pdb
+D:\OP\lab7OP\bin\Debug\net8.0\lab7OP.exe
+D:\OP\lab7OP\bin\Debug\net8.0\lab7OP.deps.json
+D:\OP\lab7OP\bin\Debug\net8.0\lab7OP.runtimeconfig.json
+D:\OP\lab7OP\bin\Debug\net8.0\lab7OP.dll
+D:\OP\lab7OP\bin\Debug\net8.0\lab7OP.pdb
+D:\OP\lab7OP\obj\Debug\net8.0\lab7OP.genruntimeconfig.cache
+D:\OP\lab7OP\obj\Debug\net8.0\ref\lab7OP.dll

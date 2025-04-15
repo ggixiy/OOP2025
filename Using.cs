@@ -69,12 +69,8 @@ class Program
         Print(D);
         Print(D.Multiple(1));
 
-        D.Delete(D.GetByIndex(0));
-        Print(D);
-
-        Console.WriteLine("List A:");
-        A.Delete(A.GetByValue(0));
-        Print(A);
+       
+        
 
         
 
