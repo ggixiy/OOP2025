@@ -3,16 +3,13 @@
   "WorkspaceRootPath": "D:\\OP\\lab7OP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OP\\lab7OP\\MyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5028C6-B0E9-4295-96D0-6335F55B386D}|..\\Solution\\Solution.csproj|d:\\op\\solution\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OP\\lab7OP\\Using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DE393D8-6331-492F-8D9C-8D06DFC27BEA}|..\\Using\\Using.csproj|d:\\op\\using\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OP\\lab7OP\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5028C6-B0E9-4295-96D0-6335F55B386D}|..\\Solution\\Solution.csproj|d:\\op\\solution\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,39 +29,38 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Node.cs",
-              "DocumentMoniker": "D:\\OP\\lab7OP\\Node.cs",
-              "RelativeDocumentMoniker": "Node.cs",
-              "ToolTip": "D:\\OP\\lab7OP\\Node.cs",
-              "RelativeToolTip": "Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\OP\\Solution\\Node.cs",
+              "RelativeDocumentMoniker": "..\\Solution\\Node.cs",
+              "ToolTip": "D:\\OP\\Solution\\Node.cs",
+              "RelativeToolTip": "..\\Solution\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:37:55.378Z",
+              "WhenOpened": "2025-04-16T06:33:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MylinkedList.cs",
+              "DocumentMoniker": "D:\\OP\\Solution\\MylinkedList.cs",
+              "RelativeDocumentMoniker": "..\\Solution\\MylinkedList.cs",
+              "ToolTip": "D:\\OP\\Solution\\MylinkedList.cs",
+              "RelativeToolTip": "..\\Solution\\MylinkedList.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAiwKUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:32:53.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Using.cs",
-              "DocumentMoniker": "D:\\OP\\lab7OP\\Using.cs",
-              "RelativeDocumentMoniker": "Using.cs",
-              "ToolTip": "D:\\OP\\lab7OP\\Using.cs",
-              "RelativeToolTip": "Using.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwEwAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OP\\Using\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Using\\Program.cs",
+              "ToolTip": "D:\\OP\\Using\\Program.cs",
+              "RelativeToolTip": "..\\Using\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T13:47:12.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyLinkedList.cs",
-              "DocumentMoniker": "D:\\OP\\lab7OP\\MyLinkedList.cs",
-              "RelativeDocumentMoniker": "MyLinkedList.cs",
-              "ToolTip": "D:\\OP\\lab7OP\\MyLinkedList.cs",
-              "RelativeToolTip": "MyLinkedList.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAmwGgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:57:54.046Z",
+              "WhenOpened": "2025-04-16T06:28:43.707Z",
               "EditorCaption": ""
             }
           ]
